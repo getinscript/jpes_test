@@ -1,4 +1,4 @@
-baseURL: 'https://corporio.onrender.com/'
+baseURL: 'https://jpes-test.onrender.com/'
 languageCode: en-us
 disableAliases: true
 disableHugoGeneratorInject: false
