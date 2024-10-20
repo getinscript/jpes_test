@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@hyas/images": "^0.2.3",
-    "@tinacms/cli": "^1.5.23",
+    "@tinacms/cli": "^1.6.9",
     "bootstrap": "^4.6.2",
     "gsap": "1.20.5",
     "imagesloaded": "^5.0.0",
@@ -59,7 +59,7 @@
     "magnific-popup": "github:dimsemenov/Magnific-Popup",
     "quicklink": "^2.3.0",
     "slick-carousel": "^1.8.1",
-    "tinacms": "^1.5.23",
+    "tinacms": "^2.2.9",
     "waypoints": "^4.0.1"
   },
   "devDependencies": {
