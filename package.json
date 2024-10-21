@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@hyas/images": "^0.2.3",
-    "@tinacms/cli": "^1.6.9",
+    "@tinacms/cli": "^1.6.10",
     "bootstrap": "^4.6.2",
     "gsap": "1.20.5",
     "imagesloaded": "^5.0.0",
